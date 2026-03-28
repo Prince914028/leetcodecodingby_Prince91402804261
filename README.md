@@ -44,4 +44,16 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0011-container-with-most-water) |
+## Math
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0292-nim-game) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
