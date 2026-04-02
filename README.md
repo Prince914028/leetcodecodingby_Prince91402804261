@@ -11,6 +11,7 @@ i am daily uploadig cod eto github of leetcode
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0020-valid-parentheses) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -62,4 +63,8 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0292-nim-game) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
