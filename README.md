@@ -12,6 +12,7 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0020-valid-parentheses) |
+| [0415-add-strings](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0415-add-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/1657-determine-if-two-strings-are-close) |
 ## Sorting
 |  |
@@ -54,6 +55,7 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0292-nim-game) |
+| [0415-add-strings](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0415-add-strings) |
 | [2527-find-xor-beauty-of-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2527-find-xor-beauty-of-array) |
 ## Brainteaser
 |  |
@@ -67,4 +69,8 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0020-valid-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
