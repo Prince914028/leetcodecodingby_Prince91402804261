@@ -62,6 +62,7 @@ i am daily uploadig cod eto github of leetcode
 ## Math
 |  |
 | ------- |
+| [0009-palindrome-number](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0009-palindrome-number) |
 | [0292-nim-game](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0415-add-strings) |
 | [2527-find-xor-beauty-of-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2527-find-xor-beauty-of-array) |
