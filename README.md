@@ -56,6 +56,7 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Bit Manipulation
 |  |
@@ -70,6 +71,7 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0415-add-strings) |
 | [2527-find-xor-beauty-of-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2527-find-xor-beauty-of-array) |
