@@ -42,6 +42,7 @@ i am daily uploadig cod eto github of leetcode
 | [0035-search-insert-position](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0645-set-mismatch](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0645-set-mismatch) |
+| [0704-binary-search](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0704-binary-search) |
 | [2527-find-xor-beauty-of-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2527-find-xor-beauty-of-array) |
 | [3866-first-unique-even-element](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
@@ -58,6 +59,7 @@ i am daily uploadig cod eto github of leetcode
 | [0035-search-insert-position](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0704-binary-search](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
