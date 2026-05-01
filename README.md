@@ -20,6 +20,7 @@ i am daily uploadig cod eto github of leetcode
 | [0387-first-unique-character-in-a-string](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0415-add-strings) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/1657-determine-if-two-strings-are-close) |
+| [2788-split-strings-by-separator](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2788-split-strings-by-separator) |
 ## Sorting
 |  |
 | ------- |
@@ -44,6 +45,7 @@ i am daily uploadig cod eto github of leetcode
 | [0645-set-mismatch](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0704-binary-search) |
 | [2527-find-xor-beauty-of-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2527-find-xor-beauty-of-array) |
+| [2788-split-strings-by-separator](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2788-split-strings-by-separator) |
 | [3866-first-unique-even-element](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/3866-first-unique-even-element) |
 ## Two Pointers
 |  |
