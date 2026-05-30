@@ -26,6 +26,7 @@ i am daily uploadig cod eto github of leetcode
 | ------- |
 | [0015-3sum](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0015-3sum) |
 | [0645-set-mismatch](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0645-set-mismatch) |
+| [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
@@ -44,6 +45,7 @@ i am daily uploadig cod eto github of leetcode
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0645-set-mismatch](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
 | [2527-find-xor-beauty-of-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2527-find-xor-beauty-of-array) |
 | [2788-split-strings-by-separator](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2788-split-strings-by-separator) |
 | [3866-first-unique-even-element](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/3866-first-unique-even-element) |
@@ -107,4 +109,28 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
