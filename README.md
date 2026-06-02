@@ -84,6 +84,7 @@ i am daily uploadig cod eto github of leetcode
 | [0069-sqrtx](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0069-sqrtx) |
 | [0292-nim-game](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0292-nim-game) |
 | [0415-add-strings](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0415-add-strings) |
+| [1922-count-good-numbers](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/1922-count-good-numbers) |
 | [2527-find-xor-beauty-of-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/2527-find-xor-beauty-of-array) |
 ## Brainteaser
 |  |
@@ -137,4 +138,8 @@ i am daily uploadig cod eto github of leetcode
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/0912-sort-an-array) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/Prince914028/leetcodecodingby_Prince91402804261/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
